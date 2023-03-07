@@ -1,0 +1,1 @@
+Fork of https://gitlab.com/trupill/kind-generics
